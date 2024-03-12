@@ -1,1 +1,2 @@
 Erstes feature.
+Jetzt haben wir auch ein zweites Feature implementiert.
